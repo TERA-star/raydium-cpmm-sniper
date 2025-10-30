@@ -129,5 +129,5 @@ This README and accompanying non-executable documentation are provided under the
 ### 📞 Telegram: [manchatz](https://t.me/manchatz)   
 https://t.me/sven.dev
 
-### 📞 X: [EleazarTlapala](https://x.com/EleazarTlapala)
-https://x.com/EleazarTlapala
+### 📞 X: [SvenDotDev](https://x.com/SvenDotDev)
+https://x.com/SvenDotDev
