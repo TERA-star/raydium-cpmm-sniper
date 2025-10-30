@@ -125,3 +125,9 @@ Not included: step-by-step exploit code, mempool relaying mechanics for front-ru
 ### License
 
 This README and accompanying non-executable documentation are provided under the MIT License. Any code snippets or modules you build should include their own license and clear ethical disclaimers.
+
+### 📞 Telegram: [manchatz](https://t.me/manchatz)   
+https://t.me/sven.dev
+
+### 📞 X: [EleazarTlapala](https://x.com/EleazarTlapala)
+https://x.com/EleazarTlapala
