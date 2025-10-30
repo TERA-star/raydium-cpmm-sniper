@@ -1,0 +1,31 @@
+{
+  "name": "raydium-cpmm-sniper",
+  "version": "0.0.2",
+  "description": "raydium clmm sniper",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.ts"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "devid",
+  "license": "MIT",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.32.1",
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "@triton-one/yellowstone-grpc": "^4.0.2",
+    "axios": "^1.12.2",
+    "bn.js": "^5.2.2",
+    "dotenv": "^17.2.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.2.0"
+  }
+}
